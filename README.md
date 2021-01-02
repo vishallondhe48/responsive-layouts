@@ -1,4 +1,4 @@
-# parcel-react-template
+# Responsive layouts
 
 Parcel-react-template.
 
@@ -27,6 +27,10 @@ To create a production build:
 ```sh
 npm run build-prod
 ```
+
+## To Use Layouts in Your App
+
+just copy the contents of components folder in your project directory and import it in your App.js file
 
 ## Running
 
