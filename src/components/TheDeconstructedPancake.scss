@@ -1,0 +1,8 @@
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+    .box {
+        flex: 1 1 300px;
+        height: 100vh;
+    }
+}
