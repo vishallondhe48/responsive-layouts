@@ -1,6 +1,6 @@
 # Responsive layouts
 
-Parcel-react-template.
+Responsive-layouts-ready-to-use
 
 ## First make sure you have installed parcel bundler globally to install parcel-bundler
 
